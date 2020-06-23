@@ -2,32 +2,30 @@
 
 Convert Word, Excel, PowerPoint, HTML, PDF and Image formats with our powerful file conversion Rest API.
 
-### Current Features
+## Current Features
 
 - excel to pdf.
 
-### Usage 
+## Usage 
 
-#### method
+### method
 
 Post
 
-#### params
+### params
 
 - data: file binary
 - format: target file format.  etc: `pdf`
 
-#### url
+### url
 
 `http://121.36.50.216:5000/convert`
 
-#### response
+### response
 
 File binary
 
-#### ---
-
-**For Example**
+---
 
 **For Example**
 
